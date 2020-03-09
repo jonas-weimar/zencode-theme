@@ -1,0 +1,23 @@
+{
+    "name": "zencode-theme",
+    "author": "Jonas Weimar",
+    "publisher": "jonasweimar",
+    "displayName": "zencode-theme",
+    "description": "my own theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "zencode-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/zencode-dark-color-theme.json"
+            }
+        ]
+    }
+}
