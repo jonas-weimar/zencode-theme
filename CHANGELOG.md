@@ -2,8 +2,8 @@
 
 All notable changes to the "zencode-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.1] - 2020-03-09
+- initial commit
 
-## [Unreleased]
-
-- Initial release
+## [0.0.2] - 2020-03-09
+- Changed Readme.md

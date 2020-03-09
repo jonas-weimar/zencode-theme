@@ -3,8 +3,8 @@
     "author": "Jonas Weimar",
     "publisher": "jonasweimar",
     "displayName": "zencode-theme",
-    "description": "my own theme",
-    "version": "0.0.1",
+    "description": "Zencode theme - simple dark and unbeatable",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.42.0"
     },

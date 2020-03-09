@@ -1,5 +1,5 @@
 # Zencode
-<h5 align="center">Created for you, by <a href="https://www.instagram.com/jonascodes">@jonascodes</a></h5>
+Created for you, by [@jonascodes](https://www.instagram.com/jonascodes)
 
 ## A dark and modern theme to make your Visual Studio experienceeven better!
 
