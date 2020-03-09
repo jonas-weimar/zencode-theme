@@ -15,7 +15,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "zencode-dark",
+                "label": "Zencode Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/zencode-dark-color-theme.json"
             }
