@@ -4,7 +4,8 @@
     "publisher": "jonasweimar",
     "displayName": "zencode-theme",
     "description": "Zencode theme - simple dark and unbeatable",
-    "version": "0.0.2",
+    "version": "0.0.3",
+    "icon": "assets/logo-zencode.png",
     "engines": {
         "vscode": "^1.42.0"
     },
@@ -20,8 +21,12 @@
             }
         ]
     },
+    "bugs": {
+        "url": "https://github.com/jonasweimar/zencode-theme/issues",
+        "email": "hello@jonasweimar.de"
+      },
     "repository": {
         "type": "git",
-        "url": "https://github.com/jonas-weimar/zencode-theme"
+        "url": "https://github.com/jonas-weimar/zencode-theme.git"
     }
 }
