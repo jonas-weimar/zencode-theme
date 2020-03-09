@@ -19,5 +19,9 @@
                 "path": "./themes/zencode-dark-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jonas-weimar/zencode-theme"
     }
 }
