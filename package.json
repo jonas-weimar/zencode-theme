@@ -4,7 +4,7 @@
     "publisher": "jonasweimar",
     "displayName": "zencode-theme",
     "description": "Zencode theme - simple dark and unbeatable",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "icon": "assets/logo-zencode.png",
     "engines": {
         "vscode": "^1.42.0"
@@ -15,7 +15,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "zencode-dark",
+                "label": "Zencode Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/zencode-dark-color-theme.json"
             }
